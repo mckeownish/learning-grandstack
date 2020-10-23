@@ -9,6 +9,9 @@ node_modules/
 # production
 build/
 
+# data
+Data/
+
 # misc
 .DS_Store
 .env
